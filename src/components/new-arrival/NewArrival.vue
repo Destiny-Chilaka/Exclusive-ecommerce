@@ -1,5 +1,5 @@
 <script setup>
-import ps5Image from '@/assets/images/ps5.png'
+import ps5Image from '@/assets/images/Ps5.png'
 import womensCollectionImage from '@/assets/images/womens-collection.png'
 import speakersImage from '@/assets/images/speaker.png'
 import perfumeImage from '@/assets/images/perfume.png'
